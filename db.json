@@ -29,6 +29,26 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
+    },
+     {
+      "id": 434,
+      "category": "music",
+      "title": "Lake swimming",
+      "description": "HTrain kids to swim.",
+      "location": "Florida",
+      "date": "July 12, 2022",
+      "time": "11:00",
+      "organizer": "Carey Wales"
+    },
+     {
+      "id": 234,
+      "category": "Arts",
+      "title": "Diving",
+      "description": "Knowing to jump.",
+      "location": "Scotland",
+      "date": "July 12, 2022",
+      "time": "11:00",
+      "organizer": "Carey Wales"
     }
   ]
 }
